@@ -5,5 +5,7 @@ public class Hello {
         Hello me = new Hello();
 
         System.out.println("Hello, my name is Xenok!");
+
+        //Testing...
     }
 }
